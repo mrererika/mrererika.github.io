@@ -34,7 +34,7 @@
 		<Phone>307-344-7381</Phone>
 		<Phone>307-344-2117</Phone>
 		<Address NearestAirport="Bozeman">
-			<Number></Number>
+			<Number>No Number</Number>
 			<Street>US-89</Street>
 			<City>Gardiner</City>
 			<State>MT</State>
@@ -71,7 +71,7 @@
 		<Phone>719-378-6395</Phone>
 		<Phone>719-378-6341</Phone>
 		<Address NearestAirport="San Luis Valley">
-			<Number>11999 </Number>
+			<Number>11999</Number>
 			<Street>State Highway 150</Street>
 			<City>Mosca</City>
 			<State>CO</State>
